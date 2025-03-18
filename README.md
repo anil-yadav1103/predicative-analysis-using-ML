@@ -37,3 +37,8 @@ Seaborn: For loading datasets and visualization.
 Matplotlib: For plotting graphs and feature importance.
 Scikit-learn (sklearn): For machine learning algorithms, model training, evaluation, and preprocessing.
 RandomForestClassifier: The main algorithm used for classification tasks.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/e7efc0be-32b7-4c59-b2cd-09798b456235)
+
+![Image](https://github.com/user-attachments/assets/c3b39a38-1e84-4d8b-98e6-61f2706f2a9c)
